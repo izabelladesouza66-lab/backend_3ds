@@ -2,4 +2,9 @@
 //criar um objeto(a sua escolha)
 //deve ter 5 propriedades no minimo
 //imprima como no exemplo
-//ex.: console.long("tipo de carne:"+ carne)
+//ex.: console.long("tipo de carne:"+ carne.tipo
+
+const atleta ={
+    nome: 'bella',
+    esportes:['natação','volei'] 
+}
